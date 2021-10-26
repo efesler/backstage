@@ -1,5 +1,17 @@
 # @backstage/plugin-kubernetes
 
+## 0.4.18
+
+### Patch Changes
+
+- 14df942bae: The Kubernetes plugin will now re-fetch the kubernetes objects every ten seconds (not current configurable), this allows users to track the progress of deployments without refreshing the browser.
+- Updated dependencies
+  - @backstage/catalog-model@0.9.6
+  - @backstage/plugin-catalog-react@0.6.2
+  - @backstage/config@0.1.11
+  - @backstage/core-plugin-api@0.1.12
+  - @backstage/core-components@0.7.2
+
 ## 0.4.17
 
 ### Patch Changes

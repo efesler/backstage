@@ -1,5 +1,14 @@
 # @backstage/catalog-model
 
+## 0.9.6
+
+### Patch Changes
+
+- 10615525f3: Switch to use the json and observable types from `@backstage/types`
+- Updated dependencies
+  - @backstage/errors@0.1.4
+  - @backstage/config@0.1.11
+
 ## 0.9.5
 
 ### Patch Changes

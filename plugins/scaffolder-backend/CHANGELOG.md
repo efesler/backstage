@@ -1,5 +1,20 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.15.11
+
+### Patch Changes
+
+- 10615525f3: Switch to use the json and observable types from `@backstage/types`
+- 41c49884d2: Start using the new `@backstage/types` package. Initially, this means using the `Observable` and `Json*` types from there. The types also remain in their old places but deprecated, and will be removed in a future release.
+- Updated dependencies
+  - @backstage/backend-common@0.9.8
+  - @backstage/catalog-model@0.9.6
+  - @backstage/errors@0.1.4
+  - @backstage/plugin-catalog-backend@0.17.2
+  - @backstage/plugin-scaffolder-backend-module-cookiecutter@0.1.3
+  - @backstage/plugin-scaffolder-common@0.1.1
+  - @backstage/config@0.1.11
+
 ## 0.15.10
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @backstage/core-components
 
+## 0.7.2
+
+### Patch Changes
+
+- c6c2942daa: Deprecated `DismissbleBannerClassKey` and fixed the typo to make `DismissableBannerClassKey`
+- Updated dependencies
+  - @backstage/errors@0.1.4
+  - @backstage/config@0.1.11
+  - @backstage/core-plugin-api@0.1.12
+
 ## 0.7.1
 
 ### Patch Changes

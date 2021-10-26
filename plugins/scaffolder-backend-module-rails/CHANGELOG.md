@@ -1,5 +1,16 @@
 # @backstage/plugin-scaffolder-backend-module-rails
 
+## 0.1.6
+
+### Patch Changes
+
+- 10615525f3: Switch to use the json and observable types from `@backstage/types`
+- Updated dependencies
+  - @backstage/backend-common@0.9.8
+  - @backstage/errors@0.1.4
+  - @backstage/plugin-scaffolder-backend@0.15.11
+  - @backstage/config@0.1.11
+
 ## 0.1.5
 
 ### Patch Changes
